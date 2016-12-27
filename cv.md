@@ -59,14 +59,22 @@ State University of New York at New Paltz
 
 ## Posters & Presentations
 *Miller, H.* Butterfly diversity and utilization of native plant gardens at Constitution Marsh. National Audubon Society Wings Speaker Series webinar. Oct. 2016.  
+
 Mlynarska, I., *Miller, H.*, Minicozzi, M. and Mass, S. Modeling the effects of xenoestrogens on planarian regeneration. Society for Integrative and Comparative Biology annual meeting poster presentation. West Palm Beach, FL. Jan. 2015.  
+
 Mlynarska, I., *Miller, H.* and Mass, S. Examination of Planarian Microanatomy with IHC and Confocal Microscopy. Hudson Valley Life Sciences Group Spring Research Symposium poster presentation. Vassar College, NY. May 2014.  
+
 *Miller, H.*, Mlynarska, I., Milla, L. and Mass, S. Comparing the Effects of BPA and BPS on Planarian Regeneration. Student Research Symposium poster presentation. SUNY New Paltz, NY. May 2014.  
+
 *Miller, H.*, Mlynarska, I., Young, M., Salvino, E., Chilingaryan, N. and Mass, S. Low Dose BPA and Planarian Regeneration. Northeast Regional Meeting of the Society for Developmental Biology poster presentation. Marine Biological Laboratory, Woods Hole, MA. April 2014.  
+
 Milla, L., *Miller, H.*, Minicozzi, M., and Mass, S. Characterizing the Effects of BPA & BPS on Planarian Regeneration. SUNY STEM Conference poster presentation. Albany, NY. Oct. 2013.  
+
 *Miller, H.* and Mass, S. Characterizing the Effects of BPS on Planarian Regeneration. Summer Undergraduate Research Experience Presentations oral presentation. SUNY New Paltz, NY. Sept. 2013.  
+
 Minicozzi, M., *Miller, H.*, Milla, M. and Mass, S. Quantifying and Modeling Regeneration with Logistic Growth. Student Research Symposium poster presentation. SUNY New Paltz, NY. May 2013.  
-Gaucher, N., Miller, H. and Mass, S. Presence of Estrogen Ligand Binding Domains in Planaria. Northeast Regional Meeting of the Society for Developmental Biology poster presentation. Marine Biological Laboratory, Woods Hole, MA. April 2013.  
+
+Gaucher, N., *Miller, H.* and Mass, S. Presence of Estrogen Ligand Binding Domains in Planaria. Northeast Regional Meeting of the Society for Developmental Biology poster presentation. Marine Biological Laboratory, Woods Hole, MA. April 2013.  
 
 
 ---  
