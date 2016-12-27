@@ -1,8 +1,10 @@
 ---
 layout: page
-title: CV
+title: Hannah E Miller
 permalink: /cv/
 ---
+<hannahelysemiller@gmail.com> 845-891-4985
+  ---  
 
 ## Education
 **Graduate program in Biology** Case Western Reserve Univeristy Fall 2015  
