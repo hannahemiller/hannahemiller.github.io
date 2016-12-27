@@ -5,15 +5,12 @@ permalink: /cv/
 ---
 
 ## Education
-**Graduate program in Biology** Case Western Reserve Univeristy Fall 2015 
-&nbsp;
+**Graduate program in Biology** Case Western Reserve Univeristy Fall 2015\s\s
 Completed courses in global change ecophysiology and entomology.
-&nbsp;
 
-**Bachelor of Science in Biology** State University of New York at New Paltz 2011-2015
-&nbsp;
-coursework included ecology, evolution, ornithology, field botany, vertebrate anatomy, and animal behavior.
-&nbsp;
+**Bachelor of Science in Biology** State University of New York at New Paltz 2011-2015\s\s
+Coursework included ornithology, field botany, ecology, evolution, and animal behavior.
+
 
 
 ## Research Experience
